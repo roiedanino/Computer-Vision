@@ -1,0 +1,4 @@
+﻿  MosheCVEx2.cpp
+c:\users\afeka\documents\visual studio 2015\projects\opencvtest3.3\opencvtest3.3\moshecvex2.cpp(151): warning C4101: 'exception1': unreferenced local variable
+  OPENCVtest3.3.vcxproj -> C:\Users\afeka\Documents\Visual Studio 2015\Projects\OPENCVtest3.3\x64\Debug\OPENCVtest3.3.exe
+  OPENCVtest3.3.vcxproj -> C:\Users\afeka\Documents\Visual Studio 2015\Projects\OPENCVtest3.3\x64\Debug\OPENCVtest3.3.pdb (Full PDB)
