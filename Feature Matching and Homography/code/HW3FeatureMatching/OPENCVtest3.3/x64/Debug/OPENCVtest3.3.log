@@ -1,0 +1,8 @@
+﻿  Source.cpp
+f:\visual studio 2015\projects\opencvtest3.3\opencvtest3.3\source.cpp(111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\visual studio 2015\projects\opencvtest3.3\opencvtest3.3\source.cpp(112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\visual studio 2015\projects\opencvtest3.3\opencvtest3.3\source.cpp(113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\visual studio 2015\projects\opencvtest3.3\opencvtest3.3\source.cpp(114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\visual studio 2015\projects\opencvtest3.3\opencvtest3.3\source.cpp(177): warning C4101: 'exception1': unreferenced local variable
+  OPENCVtest3.3.vcxproj -> F:\Visual Studio 2015\Projects\OPENCVtest3.3\x64\Debug\OPENCVtest3.3.exe
+  OPENCVtest3.3.vcxproj -> F:\Visual Studio 2015\Projects\OPENCVtest3.3\x64\Debug\OPENCVtest3.3.pdb (Full PDB)
