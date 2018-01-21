@@ -1,5 +1,4 @@
-Moshe Amini – 204000103
-Roie Danino – 316440296
+Moshe Amini and Roie Danino
 
 ### Feature Matching ###
 
